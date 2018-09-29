@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Aguafina+Script|Aldrich|Almendra|Anaheim|Anonymous+Pro|Arizonia|Audiowide|Bonbon|Bungee+Inline|Cabin+Sketch|Caudex|Clicker+Script|Condiment|Cookie|Cormorant+Upright|Crimson+Text|Dancing+Script|Dr+Sugiyama|Dynalight|EB+Garamond|Eagle+Lake|Emilys+Candy|Fanwood+Text|Fascinate+Inline|Goudy+Bookletter+1911|Grand+Hotel|Great+Vibes|Henny+Penny|Herr+Von+Muellerhoff|IM+Fell+Double+Pica|Iceberg|Iceland|Indie+Flower|Italiana|Italianno|Josefin+Slab|Just+Me+Again+Down+Here|Kaushan+Script|Keania+One|Kelly+Slab|Kumar+One+Outline|League+Script|Lekton|Lovers+Quarrel|Marck+Script|Miss+Fajardose|Monoton|Monsieur+La+Doulaise|Montez|Mr+Dafoe|Mr+De+Haviland|Mrs+Saint+Delafield|Niconne|Nixie+One|Nova+Square|Offside|Old+Standard+TT|Orbitron|Overpass+Mono|Oxygen+Mono|Pacifico|Parisienne|Petit+Formal+Script|Pinyon+Script|Playfair+Display|Poiret+One|Reenie+Beanie|Righteous|Rouge+Script|Ruthie|Sacramento|Sail|Salsa|Satisfy|Shadows+Into+Light|Share+Tech+Mono|Smythe|Sorts+Mill+Goudy|Source+Code+Pro|Sunshiney|Swanky+and+Moo+Moo|Tangerine|Underdog|UnifrakturCook:700|UnifrakturMaguntia|VT323|Vast+Shadow|Wallpoet|Wire+One|Zeyada');
 body {
   font-family: sans-serif;
   background-color: #FEFEFE;
@@ -51,4 +52,195 @@ body {
 }
 .dropdown:hover .dropdown-content {
   display: block;
+}
+#te {
+  background-color: white;
+  resize: none;
+  color: black;
+  height: 300px;
+  width: 600px;
+  font-family: Arial;
+  font-size: 11pt;
+}
+.font-aaaa {
+  font-family: "Orbitron", sans-serif;
+}
+.font-aaab {
+  font-family: "Anonymous Pro", monospace;
+}
+.font-aaac {
+  font-family: "Source Code Pro", monospace;
+}
+.font-aaad {
+  font-family: "Cookie", cursive;
+}
+.font-aaae {
+  font-family: Arial;
+}
+.font-aaaf {
+  font-family: "Aldrich", sans-serif;
+}
+.font-aaag {
+  font-family: "Indie Flower", cursive;
+}
+.font-aaah {
+  font-family: "Monoton", cursive;
+}
+.font-aaai {
+  font-family: "Almendra", serif;
+}
+.font-aaaj {
+  font-family: "Cabin Sketch", cursive;
+}
+.font-aaak {
+  font-family: "Kelly Slab", cursive;
+}
+.font-aaal {
+  font-family: "Lekton", sans-serif;
+}
+.font-aaam {
+  font-family: "Henny Penny", cursive;
+}
+.font-aaan {
+  font-family: "Great Vibes", cursive;
+}
+.font-aaao {
+  font-family: "Grand Hotel", cursive;
+}
+.font-aaap {
+  font-family: "Audiowide", cursive;
+}
+.font-aaaq {
+  font-family: "UnifrakturCook", cursive;
+}
+.font-aaar {
+  font-family: "UnifrakturMaguntia", cursive;
+}
+.font-aaas {
+  font-family: "Underdog", cursive;
+}
+.font-aaat {
+  font-family: "EB Garamond", serif;
+}
+.font-aaau {
+  font-family: "Eagle Lake", cursive;
+}
+.font-aaav {
+  font-family: "Dynalight", cursive;
+}
+.font-aaaw {
+  font-family: "Goudy Bookletter 1911", serif;
+}
+#size11 {
+  font-size: 11px;
+}
+#size12 {
+  font-size: 12px;
+}
+#size13 {
+  font-size: 13px;
+}
+#size14 {
+  font-size: 14px;
+}
+#size15 {
+  font-size: 15px;
+}
+#size16 {
+  font-size: 16px;
+}
+#size17 {
+  font-size: 17px;
+}
+#normal {
+  font-weight: normal;
+  font-style: normal;
+}
+#bold {
+  font-weight: bold;
+}
+#italic {
+  font-style: italic;
+}
+#left {
+  text-align: left;
+}
+#right {
+  text-align: right;
+}
+#black {
+  color: black;
+}
+#red {
+  color: red;
+}
+#crimson {
+  color: crimson;
+}
+#blue {
+  color: blue;
+}
+#dgblue {
+  color: dodgerblue;
+}
+#darkblue {
+  color: darkblue;
+}
+#teal {
+  color: teal;
+}
+#purple {
+  color: purple;
+}
+#magenta {
+  color: magenta;
+}
+#pink {
+  color: pink;
+}
+#hotpink {
+  color: hotpink;
+}
+#deeppink {
+  color: deeppink;
+}
+#white {
+  color: white;
+  background-color: black;
+}
+#bgred {
+  background-color: red;
+}
+#bgwhite {
+  background-color: white;
+}
+#bgblue {
+  background-color: blue;
+}
+#bgdgblue {
+  background-color: dodgerblue;
+}
+#bgdarkblue {
+  background-color: darkblue;
+}
+#bgteal {
+  background-color: teal;
+}
+#bgpurple {
+  background-color: purple;
+}
+#bgmagenta {
+  background-color: magenta;
+}
+#bgpink {
+  background-color: pink;
+}
+#bghotpink {
+  background-color: hotpink;
+}
+#bgdeeppink {
+  background-color: deeppink;
+}
+#bgcrimson {
+  background-color: crimson;
 }
