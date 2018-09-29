@@ -64,183 +64,363 @@ body {
 }
 .font-aaaa {
   font-family: "Orbitron", sans-serif;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaab {
   font-family: "Anonymous Pro", monospace;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaac {
   font-family: "Source Code Pro", monospace;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaad {
   font-family: "Cookie", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaae {
   font-family: Arial;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaaf {
   font-family: "Aldrich", sans-serif;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaag {
   font-family: "Indie Flower", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaah {
   font-family: "Monoton", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaai {
   font-family: "Almendra", serif;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaaj {
   font-family: "Cabin Sketch", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaak {
   font-family: "Kelly Slab", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaal {
   font-family: "Lekton", sans-serif;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaam {
   font-family: "Henny Penny", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaan {
   font-family: "Great Vibes", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaao {
   font-family: "Grand Hotel", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaap {
   font-family: "Audiowide", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaaq {
   font-family: "UnifrakturCook", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaar {
   font-family: "UnifrakturMaguntia", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaas {
   font-family: "Underdog", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaat {
   font-family: "EB Garamond", serif;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaau {
   font-family: "Eagle Lake", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaav {
   font-family: "Dynalight", cursive;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 .font-aaaw {
   font-family: "Goudy Bookletter 1911", serif;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #size11 {
   font-size: 11px;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #size12 {
   font-size: 12px;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #size13 {
   font-size: 13px;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #size14 {
   font-size: 14px;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #size15 {
   font-size: 15px;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #size16 {
   font-size: 16px;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #size17 {
   font-size: 17px;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #normal {
   font-weight: normal;
   font-style: normal;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bold {
   font-weight: bold;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #italic {
   font-style: italic;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #left {
   text-align: left;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #right {
   text-align: right;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #black {
   color: black;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #red {
   color: red;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #crimson {
   color: crimson;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #blue {
   color: blue;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #dgblue {
   color: dodgerblue;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #darkblue {
   color: darkblue;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #teal {
   color: teal;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #purple {
   color: purple;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #magenta {
   color: magenta;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #pink {
   color: pink;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #hotpink {
   color: hotpink;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #deeppink {
   color: deeppink;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #white {
   color: white;
   background-color: black;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bgred {
   background-color: red;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bgwhite {
   background-color: white;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bgblue {
   background-color: blue;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bgdgblue {
   background-color: dodgerblue;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bgdarkblue {
   background-color: darkblue;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bgteal {
   background-color: teal;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bgpurple {
   background-color: purple;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bgmagenta {
   background-color: magenta;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bgpink {
   background-color: pink;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bghotpink {
   background-color: hotpink;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bgdeeppink {
   background-color: deeppink;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
 #bgcrimson {
   background-color: crimson;
+  border: none;
+  width: 90px;
+  height: 50px;
 }
